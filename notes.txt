@@ -1,15 +1,25 @@
 git init [to make a repo a git repo]
 git add . [files got tracked which are changed or modified]
 git commit -m "YOUR COMMIT MESSAGE"
+git log [to check which user do the commit and also showing the commit msg]
 git config --global user.name and user.email [to change ur name and email in the git]
 git branch [to know all the branches of the project]
-git fetch --all
+git fetch --all[ ]
 git checkout shubham/feature-order-tarnsactions
 git status
 git checkout -b new_branch_name existing_branch_name [to make a copy of a specific branch]
 git pull origin  shubham/feature-order-tarnsactions
 git --version or git -v [to check the git version installed in ur system]
-git log [to check which user do the commit and also showing the commit msg]
+
+
+
+
+
+
+
+
+
+
 
 
 
